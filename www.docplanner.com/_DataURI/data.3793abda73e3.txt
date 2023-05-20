@@ -1,0 +1,1 @@
+chrome-extension://jfhbealifiddpdbakoaogajmffjdonie/js/block_ad.js

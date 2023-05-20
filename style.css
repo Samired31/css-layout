@@ -1,0 +1,232 @@
+.first {
+    margin-left: 17% !important;
+    margin-right: 17% !important;
+}
+
+.headline {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    display: inline;
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin: 1em 0;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.second {
+    margin-left: 17% !important;
+    margin-right: 17% !important;
+}
+.third {
+    margin-left: 17% !important;
+    margin-right: 17% !important;
+    
+}
+
+.boxes {
+    display: block;
+    background-color: #00ccb1;
+    justify-content: space-around;
+    padding: 4%;
+    border-radius: 8%;
+    margin-top: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    color: #fff;
+
+}
+.boxes1 {
+    display: block;
+    background-color: #3d83df;
+    justify-content: space-around;
+    padding: 4%;
+    border-radius: 8%;
+    margin-top: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    color: #fff;
+
+}
+.boxes2 {
+    display: block;
+    background-color: #1b2734;
+    justify-content: space-around;
+    padding: 4%;
+    border-radius: 8%;
+    margin-top: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    color: #fff;
+
+}
+
+.paragraphs {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 4%;
+    margin-bottom: 8%;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Work Sans',Arial,sans-serif;
+    color: #747474;
+    line-height: 1,8;
+}
+
+.imgbanner img {
+    display: block;
+    margin-top: 4%;
+    max-width: 4%;
+    height: auto;
+}
+.navbar img {
+    display: block;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    max-width: 30%;
+    height: auto;
+}
+
+.brands {
+    border-radius: 8% ;
+    display: block;
+    float: left;
+    width: 33%;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    margin-top: 0.25em;
+    margin-right: 1px;
+    margin-bottom: 0.35em;
+    margin-left: 0px;
+    padding: 1em;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -3px;
+    color: #00b39b;
+}
+
+.logo img {
+    justify-content: space-evenly;
+    size: 10em;
+    max-width: 10%;
+    height: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    
+}
+.logo :hover{
+    
+    -webkit-filter: none !important; 
+    filter: none !important;
+}
+
+.stats {
+    margin-top:8% ;
+    background-color: #d8f6f6;
+}
+.doc {
+  
+    margin-top: 2em;
+    display: block;
+    background: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    height: 250px;
+    text-align: center;
+    padding: 5%;
+    font-size: .8125em;
+}
+
+.doc1 {
+ 
+    margin-top: 2em;
+    display: block;
+    background: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    height: 250px;
+    text-align: center;
+    padding: 5%;
+    font-size: .8125em;
+}
+
+.doc2 {
+    
+    margin-top: 2em;
+    display: block;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    height: 250px;
+    text-align: center;
+    margin-bottom: 2em;
+    padding: 5%;
+    font-size: .8125em;
+}
+
+.doc3 {
+    
+    margin-top: 2em;;
+    display: block;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    height: 250px;
+    padding: 5%;
+    text-align: center;
+    margin-bottom: 2em;
+    font-size: .8125em;
+}
+.stats-header {
+    margin-top: 2em;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: inherit;
+}
+.ha h3 {
+    color:#00b39b;
+}
+.doc h3 {
+    color:#00b39b;
+}
+.doc2 h3 {
+    color:#00b39b;
+}
+.doc3 h3 {
+    color:#00b39b;
+}
+
+.stats-header {
+    display: block;
+    margin-top: 2em;
+    
+    margin-right: 40%;
+
+}
+.footer-text {
+    font-size: 12px;
+    color: #ababab;
+}
+.mainfooter {
+    border-top: 1px solid #eef2f2;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+*\
+p {
+    display: block;
+    margin-inline-start: 1em;
+    margin-inline-end: 1em;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+}
+/*

@@ -1,0 +1,1 @@
+No Content: https://unpkg.com/web-vitals/dist/web-vitals.iife.js
